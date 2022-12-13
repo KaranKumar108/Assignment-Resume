@@ -1,0 +1,53 @@
+img{
+  margin-top: 100px; 
+  border-radius: 210px;
+  padding: 5px;
+  background-color: rgb(255, 255, 255);
+  width: 430px;
+  height: 430px;
+
+  
+}
+div{
+color: rgb(255, 255, 255);
+ font-size: 35px;
+ line-height: 10px;
+ padding-left: 5%;
+ border-bottom: 10px solid currentColor;
+ 
+ 
+}
+#dev{
+  color: rgb(247, 173, 35);
+}
+.info{
+  line-height: 100px;
+  color: rgb(255, 197, 88);
+  font-size: 40px;
+}
+body{
+  background-color: rgba(0, 0, 0, 0.928);
+  color: aliceblue;
+  padding-left: 100px;
+
+}
+b{
+  color: rgb(255, 197, 88);
+}
+ul{
+  line-height: 50px;
+}
+span{
+  border-right: 2px solid currentColor;
+  display: inline-block;
+  line-height: 1.5;
+  padding-right: 5%;
+}
+#pag{
+  font-size: 25px;
+  line-height: 40px;
+}
+#peft{
+  display: flex;
+	align-items: center;
+}
