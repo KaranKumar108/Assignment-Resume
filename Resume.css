@@ -1,53 +1,90 @@
-img{
-  margin-top: 100px; 
+img {
+  margin-top: 100px;
   border-radius: 210px;
   padding: 5px;
   background-color: rgb(255, 255, 255);
   width: 430px;
   height: 430px;
 
-  
+
 }
-div{
-color: rgb(255, 255, 255);
- font-size: 35px;
- line-height: 10px;
- padding-left: 5%;
- border-bottom: 10px solid currentColor;
- 
- 
+
+div {
+  color: rgb(255, 255, 255);
+  font-size: 35px;
+  line-height: 10px;
+  padding-left: 5%;
 }
-#dev{
+
+#dev {
   color: rgb(247, 173, 35);
 }
-.info{
+
+.info {
   line-height: 100px;
   color: rgb(255, 197, 88);
   font-size: 40px;
 }
-body{
+
+body {
   background-color: rgba(0, 0, 0, 0.928);
   color: aliceblue;
-  padding-left: 100px;
+  padding-left: 300px;
 
 }
-b{
+
+b {
   color: rgb(255, 197, 88);
 }
-ul{
+
+ul {
   line-height: 50px;
 }
-span{
+
+span {
   border-right: 2px solid currentColor;
   display: inline-block;
   line-height: 1.5;
   padding-right: 5%;
 }
-#pag{
+
+#pag {
   font-size: 25px;
   line-height: 40px;
 }
-#peft{
+
+#peft {
   display: flex;
-	align-items: center;
+  align-items: center;
+}
+
+#rightSide {
+  display: flex;
+  margin-top: -1170px;
+  align-content: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  font-size: xx-large;
+  line-height: 50px;
+  color: rgb(255, 197, 88);
+  font-size: 40px;
+}
+#rightSide2{
+  line-height: 40px;
+  padding-left: 45%;
+  font-size: 30px;
+  color: aqua;
+}
+#rightSide3{
+  line-height: 30px;
+  padding-left: 45%;
+  font-size: 25px;
+
+}
+#rightSide4{
+  line-height: 30 px;
+  padding-left: 45%;
+  font-size: 40px;
+  color: rgb(255, 197, 88);
+
 }
